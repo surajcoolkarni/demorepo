@@ -1,0 +1,6 @@
+Hi this is by master...
+<<<<<<< HEAD
+This is by Bob
+=======
+by Alice
+>>>>>>> by alice
